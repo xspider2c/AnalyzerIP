@@ -94,7 +94,7 @@ cat << "EOF"
 
 EOF
  
-  printf "${RESET}${YELLOW}* GitHub: https://github.com/s-r-e-e-r-a-j${RESET}\n"
+  printf "${RESET}${YELLOW}* GitHub: https://github.com/xspider2c${RESET}\n"
  
 }
 
