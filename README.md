@@ -16,7 +16,7 @@ To install and run IPAnalyzer, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/spiderc2c/AnalyzerIP
+git clone https://github.com/xspider2c/AnalyzerIP.git
 ```
 2. **Navigate to the IPAnalyzer directory** 
 ```bash
@@ -58,10 +58,10 @@ After running the script, you'll be presented with an interactive menu where you
 
 
 
-                                Developer : MR, G
+                                Developer : MR. G
 
 * Copyright © Sreeraj, 2025
-* GitHub: https://github.com/spiderc2c
+* GitHub: https://github.com/xspider2c
 
   [01] My Original IP
   [02] My Tor IP 
