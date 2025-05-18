@@ -20,11 +20,11 @@ git clone https://github.com/xspider2c/AnalyzerIP.git
 ```
 2. **Navigate to the IPAnalyzer directory** 
 ```bash
-cd IPAnalyzer
+cd AnalyzerIP
 ```
 3. **Navigate to the IPAnalyzer directory**
  ```bash
- cd IPAnalyzer
+ cd AnalyzerIP
 ```
 4. **Run the tool:**
 
